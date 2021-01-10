@@ -33,12 +33,16 @@ Similarities:
 
 ## What are we trying to find out?
 As written in the short one-liner, I am trying to find if the weighted pull up can be a good predictor of front lever ability.
+
 This is because in the bodyweight workout/calisthenics/streetworkout community there is much debate on whether a getting strong at weighted pull ups will allow you do a front lever without directly training for it.
+
 Now for people who don't train in this style(bodyweight exercises and it's many variants) or don't do strength training at all, I have to explain a few more concepts:
 1. The concept of carryover
+
 Carryover exaplained as simply as possible is "Being strong in exercise A will allow you to be strong in exercise B if both exercises use the same muscle(s)." 
 
 2. The concept of specificity
+
 Specificity could be described loosely as one of many strength training "styles" or "techniques".  The concept of specificity may be best described with an example:
 A weighted pull up specific training would revolve around the athlete doing mainly pull ups and it's many variations to specifically get strong at weighted pull ups.
 Other types of pulling would not take priority in weighted pull up specific training because it would/could interfere with getting stronger at the weighted pull up.

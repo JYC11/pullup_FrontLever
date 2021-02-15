@@ -2,7 +2,8 @@
 
 ## Short one-liner
 The purpose of this project is to find if the weighted pull up can be a good predictor of an athlete's front lever ability
-https://youtu.be/GQej5-LCkEc -> The associated video
+
+https://youtu.be/GQej5-LCkEc -> The main video made by FrinksMovement, a calisthenics Youtuber.
 The analysis was finished after collecting more data.
 
 ## Disclaimer
@@ -29,22 +30,34 @@ Differences:
 (So a pull up is a vertical pulling exercise and a front lever is a horizontal pulling exercise. The direction of the pulling is different.)
 2. A pull up moves your body through space(up and down) while when you do a front lever you do not move.
 (A pull up is dynamic while the front lever is static.)
+3. A pull up is a bent arm exercise as in you need to bend your arm to perform it. A front lever is a straight arm exercise as in your arms need to be perfectly straight to perform the exercise correctly.
 
 Similarities:
 1. Both are back exercises
 2. Both can be scaled in difficulty
 
 ## What are we trying to find out?
+I and many others want to find out if being strong at weighted pull ups will allow you to do a full front lever (or an easier variation of it). Due to different direction of the pulling motion and different pulling technique, there may not be a direct transfer from vertical dynamic pulling to static horizontal pulling.
 
+## The Survey
+The survey was initially created and distributed by FrinksMovement. It had issues with data validation due to people inputting values for their heigh and weight inconsistently.
+This made data cleaning slightly more difficult and I did talk to him about this and made changes to the survey to continue collecting data more effectively after the analysis was done and advised him on how to make new surveys in the future.
 
-## The survey
+## Basic EDA and Model Building
+TLDR: Shows a weak-ish relationship between weighted pull ups and front lever.
+Need to figure out how to put images in a Readme
 
-
-## The findings
-
-## Conclusion
+## The Findings/Conclusion
+TLDR: Not conclusive enough. Lacking in data points and potentially more useful features.
+Need to figure out how to put images in a Readme
 
 ## Future possibilities
-
+Data that could be useful
+1. % of bodyweight in legs/lowerbody
+2. length of arms/legs
+3. muscle attachments
+4. bodyfat %
+5. grip strength
+6. training history
 
 
